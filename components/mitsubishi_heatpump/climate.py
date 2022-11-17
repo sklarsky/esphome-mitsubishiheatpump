@@ -90,5 +90,5 @@ def to_code(config):
     cg.add_library(
         name="HeatPump",
         repository="https://github.com/sklarsky/HeatPump",
-        version="d5865371512d0704b8dd9600d3dd9a28c69aabca",
+        version="4ee5bb73a7d824b7cac7647eee8283c666bb304a",
     )
